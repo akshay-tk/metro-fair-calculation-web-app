@@ -1,0 +1,12 @@
+.fareBox{
+    height: 9vh;
+    width: 15vw;
+    border:1px solid black;
+    align-items: center;
+    justify-content: center;text-align: center;
+    padding-top: 7vh;
+}
+.fare{
+    justify-content: center;
+    transform: translateY(-20px)
+}

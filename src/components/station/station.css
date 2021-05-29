@@ -1,0 +1,26 @@
+.stationWrapper{
+    display:grid;
+    height:16vh;
+    width:50vh;
+    grid-template-rows: 30% 70%;
+    border:1px solid black;
+    
+}
+.clicked{
+    background-color: aqua;
+}
+.stationName{
+    display:grid;
+    grid-template-columns: 40% 10% 50%;
+    
+}
+
+.stationHeader{
+    border:1px solid black;
+    padding: 2px;
+}
+
+.stationBody{
+    border:1px solid black;
+    padding: 2px;
+}

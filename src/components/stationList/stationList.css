@@ -1,0 +1,12 @@
+.listWrapper{
+    height:500px;
+    width: 350px;
+    overflow: scroll;
+    border: 1px double black ;
+  
+    padding: 2px;
+}
+
+
+
+
